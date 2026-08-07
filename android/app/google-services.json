@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200999714906",
+    "project_id": "my-notes-flutter-melearn",
+    "storage_bucket": "my-notes-flutter-melearn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200999714906:android:448eefd30a7327fc68d863",
+        "android_client_info": {
+          "package_name": "com.example.testsss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvL2xzs5inJPgi-LZwIpyVD3E7K1XKAKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
